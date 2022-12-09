@@ -3,7 +3,7 @@
 Your idea in a nutshell: 
 Name your project and prepare to describe it briefly.
 
----- JOB APPLICATION ATTACHMENT GPA/GRADE CALCULATOR --------
+---- JOB APPLICATION ATTACHMENT GRADE CALCULATOR --------
 
 - Idea is that PDF documents recognize directly values and characters, turning into fex. Excel spreadsheet and calculate values
 - Could be referenced as a scanner for school documents
