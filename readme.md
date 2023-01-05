@@ -40,4 +40,4 @@ Challenges: What does your project not solve? It’s important to understand tha
 
 What next: How could your project grow and become something even more? -This project could wider even more than LinkedIn or other careers page on websites.. People could be hired easier.
 
-Acknowledgments: If you’re using open source code or documents in your project, make sure you give credit to the creators. Mention your sources of inspiration, too. -Thanks, sure do. LinkedIn is one.
+Acknowledgments: If you’re using open source code or documents in your project, make sure you give credit to the creators. Mention your sources of inspiration, too. -Thanks, sure do
